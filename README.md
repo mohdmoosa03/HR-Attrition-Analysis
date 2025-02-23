@@ -21,6 +21,8 @@ This project analyzes employee attrition trends using Power BI, Excel, and SQL, 
 
 
 
+
+
 ![Image Alt](https://github.com/mohdmoosa03/HR-Attrition-Analysis/blob/9b7b37e70cddadcd19924f860134f0d7b3ae3592/Powerbi%20Dashboard.png)
 
 ##🔗 Project Link:

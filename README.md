@@ -17,7 +17,7 @@ This project analyzes employee attrition trends using Power BI, Excel, and SQL, 
 - **DAX (Data Analysis Expressions)** - Custom calculations
 
 ## 📸 Project Screenshots  
-(Add images of your **Power BI Dashboard, Excel analysis, or SQL queries** to make it visually appealing.)  
+![Image Alt](https://github.com/mohdmoosa03/HR-Attrition-Analysis/blob/1017419a5eaaf4fb4591114ade8d7fe48d966d6a/Excel%20Dashboard.png)
 
 ##🔗 Project Link:
 GitHub Repository: #[HR-Attrition-Analysis](https://github.com/mohdmoosa03/HR-Attrition-Analysis)
